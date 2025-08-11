@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Juan Caro
 
-<!--
-**juancaroav/juancaroav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Software Developer
 
-Here are some ideas to get you started:
+Soy ingeniero de sistemas, con más de 8 años de experiencia en el desarrollo de aplicaciones web y de escritorio utilizando tecnologiás **.Net**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+- ☁️ **Cloud:** AWS, Azure DevOps,
+- 🐳 **Containers:** Docker, Kubernetes
+- 🔧 **DevOps:** GitHub Actions, CI/CD, Terraform, Bash scripting,
+- 🖥️ **Sistemas:** Windows
+- 💻 **Lenguajes:** C#, Python
+
+## 📫 Cómo contactarme
+
+- ✉️ caroavellajuancarlos@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/juancaroav)
+- 🧠 Siempre aprendiendo y compartiendo: ¡consultas técnicas bienvenidas!
+
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/juancaroav/juancaroav)
+
+### ⚡ Actividad reciente
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
+
+---
+
+> “Automatizar lo repetitivo, asegurar lo importante, y escalar lo eficiente.”
