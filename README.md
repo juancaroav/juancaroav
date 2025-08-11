@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan Caro
 
-🎯 **Software Developer
+🎯 **Software Developer**
 
 Soy ingeniero de sistemas, con más de 8 años de experiencia en el desarrollo de aplicaciones web y de escritorio utilizando tecnologiás **.Net**.
 
